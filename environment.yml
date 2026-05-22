@@ -1,0 +1,8 @@
+name: atbd-ev-charging
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.9
+  - pandas>=1.5
+  - numpy>=1.23
+  - matplotlib>=3.6
