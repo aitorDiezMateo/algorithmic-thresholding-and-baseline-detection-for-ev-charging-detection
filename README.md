@@ -98,6 +98,12 @@ Output figures are written to `figures/`. The `paper_figures/` folder contains t
 
 ---
 
+## Acknowledgements
+
+This work was carried out within the scope of the **Deusto Sustainable Research Group** at the University of Deusto.
+
+---
+
 ## License
 
 This project is released under the [MIT License](LICENSE).
